@@ -1,0 +1,14 @@
+/build*/
+/data/
+/logs/
+/results/
+/ablation-output/
+__pycache__/
+*.py[cod]
+*.o
+*.a
+*.so
+CMakeCache.txt
+CMakeFiles/
+.vscode/
+.idea/
